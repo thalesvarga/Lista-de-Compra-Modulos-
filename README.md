@@ -1,4 +1,4 @@
-![Lista de Compras](img/listaDeCompras.png)
+![Lista de Compras](img/listaDeCompra.png)
 
 #   Projeto Lista de Compras
 
